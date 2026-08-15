@@ -1,4 +1,4 @@
-# 🏥 Healthcare Laboratory & Patient Management Syste
+# 🏥 Healthcare Laboratory & Patient Management Syst
 
 A full-featured web-based laboratory management system built for diagnostic
 centres to manage patients, lab tests, reports, referring doctors, and
